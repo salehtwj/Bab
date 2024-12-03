@@ -1,0 +1,22 @@
+# Core Python Libraries
+pandas
+requests
+bs4
+
+# Machine Learning and NLP
+langchain
+sentence-transformers
+langchain-groq
+transformers
+torch
+
+# Vector Database
+faiss-cpu
+
+# Web Framework
+streamlit
+
+# Additional Dependencies
+markdown
+getpass
+html2text
