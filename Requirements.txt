@@ -1,12 +1,10 @@
 pandas
 requests
-bs4
-requests
-pandas
 beautifulsoup4
-langchain_huggingface 
-langchain 
-langchain-community 
+bs4
+langchain_huggingface
+langchain
+langchain-community
 langchain_groq
 markdown
 openpyxl
